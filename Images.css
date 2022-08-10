@@ -1,0 +1,67 @@
+    .title{
+      font-weight:bold;
+      text-align: center;
+    }
+      .pix{
+        width:200px;
+        border-radius:15px ;
+      }
+      .pic{
+        align-content: center;
+      }
+      .piz{
+        border-radius: 500px;
+      }
+      .text{
+        padding-left:5px;
+        padding-right:30px;
+        padding-bottom:5px;
+        padding-top:5px;
+        font-size: 5px;
+        font-weight: bold;
+        border-radius:7px;
+      } 
+      .tex{
+        
+        box-shadow:30,30,30 black;
+        border-radius:20px;
+      }
+      .te{
+        width:250px;
+      }
+      .term{
+        width:400px;
+        font-size: 10px;
+      }
+      .terms{
+        width:250px;
+        text-align: center;
+        background-color: blue;
+        color:white ;
+        border-radius:20px;
+        border:none;
+        padding-bottom:5px;
+        padding-top:5px;
+      }
+      .pi{
+        width:100px;
+        margin-top:10px;
+        vertical-align: middle;
+      }
+      .question{
+        vertical-align: middle;
+        margin-left:7px;
+      }
+      .media{
+        background-color: blue;
+        color:white;
+        border-radius:15px;
+        border:none;
+        vertical-align: middle;
+        margin-left:45px;
+        font-size: 5px;
+        text-align: center;
+        padding-bottom:5px;
+        padding-top:5px;
+      }
+    
